@@ -1,6 +1,7 @@
 backend:
   name: github
   repo: eisolo/eisolo-blog
+  branch: master
 
 media_folder: content/assets
 public_folder: ../assets
