@@ -30,16 +30,8 @@ He hid under the covers hoping that nobody would notice him there. It really did
 
 She glanced up into the sky to watch the clouds taking shape. First, she saw a dog. Next, it was an elephant. Finally, she saw a giant umbrella and at that moment the rain began to pour.
 
-
-
 > this is a block quote, She nervously peered over the edge. She understood in her mind that the view was supposed to be beautiful, but all she felt was fear.
 
 
-
-HTML?Yes!
-
-<hr>
-
-<p style="color: purple">this text is supposed to be purple</p>
 
 ![image uploaded while making post](../assets/f971ec5bb8afb6d91803de0a5162bf8e698b32e8-000071710005.jpg "image uploaded while making post")
