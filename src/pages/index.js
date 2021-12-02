@@ -19,7 +19,7 @@ class IndexPage extends React.Component {
         <p>home is where this text is</p>
     
         <Link to="/blog/">
-          <Button marginTop="10px">Go to Blog</Button>
+          <Button marginTop="10px">blog link</Button>
         </Link>
       </Layout>
     )
